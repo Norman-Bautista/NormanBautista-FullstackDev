@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate to other people who want to learn together or build startups.
 - 📫 How to reach me you can contact me in my facebook or instagram
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am one of the portion of programmers that is having a hard time to code at night XD
 
 <!---
 NormanBautista-FullstackDev/NormanBautista-FullstackDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
